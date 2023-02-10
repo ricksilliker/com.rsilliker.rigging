@@ -1,0 +1,12 @@
+{
+  "name": "com.rsilliker.rigging",
+  "displayName": "Rigging Tools",
+  "version": "1.0.0",
+  "description": "Rigging toolkit for Unity.",
+  "keywords": [
+    "Animation",
+    "Rigging",
+    "Constraints"
+  ],
+  "category": "Animation"
+}
